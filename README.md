@@ -1,1 +1,2 @@
-# Animated-Search-Bar
+# Record and Search Tab. 
+using HTML, CSS and JavaScript
